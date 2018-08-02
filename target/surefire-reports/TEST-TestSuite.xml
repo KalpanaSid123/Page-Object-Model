@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="217.099" tests="13" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\HOSTDEV"/>
+    <property name="classpath" value=""/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_51\jre"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="TVT" value="C:\Program Files (x86)\Lenovo"/>
+    <property name="JENKINS_URL" value="http://localhost:9090/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_51\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="HOSTDEV"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_51"/>
+    <property name="JOB_NAME" value="sairam"/>
+    <property name="COMPUTERNAME" value="HOSTDEV"/>
+    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property name="READYAPPS" value="C:\ProgramData\Lenovo\ReadyApps"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="Kalpana_Len"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 69 Stepping 1, GenuineIntel"/>
+    <property name="GOOGLE_API_KEY" value="no"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Kalpana_Len\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:9090/job/sairam/1/display/redirect?page=changes"/>
+    <property name="user.timezone" value="America/Phoenix"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-sairam-1"/>
+    <property name="INFA_DOMAINS_FILE" value="C:\Informatica\9.5.1\"/>
+    <property name="windows_tracing_flags" value="3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="TVTCOMMON" value="C:\Program Files (x86)\Common Files\Lenovo"/>
+    <property name="RFC_INI" value="C:\Windows\SysWOW64\saprfc.ini"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Maven\apache-maven-3.5.4 C:\Users\Kalpana_Len\.jenkins\war\WEB-INF\lib\remoting-3.23.jar C:\Users\Kalpana_Len\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\Kalpana_Len\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 53352"/>
+    <property name="HUDSON_URL" value="http://localhost:9090/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="538d88a6a231e0c7"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_51/bin;&quot;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Kalpu_Sel_2018\Git\bin\git.exe&quot;;C:\ProgramData\Oracle\Java\javapath;C:\Informatica\9.5.1\clients\DT\bin;C:\Informatica\9.5.1\clients\tools\datadirect;C:\Informatica\9.5.1\clients\tools\odbcdrv;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Informatica\9.5.1\java\jre\bin\server;C:\Informatica\9.5.1\tools\odbcdrv;C:\Informatica\9.5.1\tools\datadirect;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files\Condusiv Technologies\ExpressCache\;C:\Program Files (x86)\Common Files\Lenovo;C:\ProgramData\Lenovo\ReadyApps;C:\Informatica\9.5.1\server\bin;C:\instantclient\instantclient_11_2;C:\WINDOWS\System32\OpenSSH\;C:\Kalpu_Sel_2018\Git\cmd;C:\Maven\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\Maven\apache-maven-3.5.4\bin;C:\Users\Kalpana_Len\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="java.io.tmpdir" value="C:\Users\KALPAN~1\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\Kalpana_Len\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:9090/job/sairam/1/"/>
+    <property name="M2_HOME" value="C:\Maven\apache-maven-3.5.4"/>
+    <property name="=C:" value="C:\Kalpu_Sel_2018\jenkinsdownload"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="538d88a6a231e0c7"/>
+    <property name="MAVEN_HOME" value="C:\Maven\apache-maven-3.5.4"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Kalpana_Len\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar"/>
+    <property name="OSSINFO" value="C:\Informatica\9.5.1\clients\DT"/>
+    <property name="HOMEPATH" value="\Users\Kalpana_Len"/>
+    <property name="TNS_ADMIN" value="C:\instantclient\instantclient_11_2"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="maven3.interceptor" value="C:\Users\Kalpana_Len\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_51\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Maven\apache-maven-3.5.4/bin;C:\Program Files\Java\jdk1.8.0_51/bin;C:\Program Files\Java\jdk1.8.0_51/bin;&quot;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Kalpu_Sel_2018\Git\bin\git.exe&quot;;C:\ProgramData\Oracle\Java\javapath;C:\Informatica\9.5.1\clients\DT\bin;C:\Informatica\9.5.1\clients\tools\datadirect;C:\Informatica\9.5.1\clients\tools\odbcdrv;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Informatica\9.5.1\java\jre\bin\server;C:\Informatica\9.5.1\tools\odbcdrv;C:\Informatica\9.5.1\tools\datadirect;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files\Condusiv Technologies\ExpressCache\;C:\Program Files (x86)\Common Files\Lenovo;C:\ProgramData\Lenovo\ReadyApps;C:\Informatica\9.5.1\server\bin;C:\instantclient\instantclient_11_2;C:\WINDOWS\System32\OpenSSH\;C:\Kalpu_Sel_2018\Git\cmd;C:\Maven\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\Maven\apache-maven-3.5.4\bin;C:\Users\Kalpana_Len\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="VBOX_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:9090/job/sairam/"/>
+    <property name="OneDrive" value="C:\Users\Kalpana_Len\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:9090/job/sairam/1/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\Kalpana_Len\.jenkins"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="TEMP" value="C:\Users\KALPAN~1\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_51\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="4501"/>
+    <property name="configsetroot" value="C:\WINDOWS\ConfigSetRoot"/>
+    <property name="HUDSON_HOME" value="C:\Users\Kalpana_Len\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Maven\apache-maven-3.5.4/bin"/>
+    <property name="IFCONTENTMASTER_HOME" value="C:\Informatica\9.5.1\clients\DT"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="HOSTDEV"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_51"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\Kalpana_Len"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:9090/job/sairam/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_51\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\Kalpana_Len"/>
+    <property name="USERNAME" value="Kalpana_Len"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="GOOGLE_DEFAULT_CLIENT_ID" value="no"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="COMMPath" value="C:\Program Files\Lenovo\Communications Utility"/>
+    <property name="user.dir" value="C:\Users\Kalpana_Len\eclipse-workspace\FreeCRMTest"/>
+    <property name="maven.conf" value="C:\Maven\apache-maven-3.5.4\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\KALPAN~1\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.51-b03"/>
+    <property name="java.class.path" value="C:\Users\Kalpana_Len\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Maven\apache-maven-3.5.4\boot\plexus-classworlds-2.5.2.jar;C:\Maven\apache-maven-3.5.4/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="SWSHARE" value="C:\SWSHARE"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\Kalpana_Len\.jenkins\workspace\sairam"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_51-b16"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_51\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_51\jre\classes"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_51/bin"/>
+    <property name="user.country" value="US"/>
+    <property name="maven.home" value="C:\Maven\apache-maven-3.5.4"/>
+    <property name="JOB_BASE_NAME" value="sairam"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="GOOGLE_DEFAULT_CLIENT_SECRET" value="no"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase name="logInTest" classname="com.crm.qa.testcases.LoginPageTest" time="7.631"/>
+  <testcase name="loginPageTitleTest" classname="com.crm.qa.testcases.LoginPageTest" time="0.023">
+    <failure message="expected:&lt;#1 Free CRM software in the cloud for sales and service&gt; but was:&lt;Free CRM software in the cloud powers sales and customer service&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<#1 Free CRM software in the cloud for sales and service> but was:<Free CRM software in the cloud powers sales and customer service>
+	at com.crm.qa.testcases.LoginPageTest.loginPageTitleTest(LoginPageTest.java:42)
+]]></failure>
+    <system-out><![CDATA[Kalpu123
+Kalpu123
+https://www.freecrm.com/index.html
+Before navigating to: 'https://www.freecrm.com/index.html'
+Navigated to:'https://www.freecrm.com/index.html'
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb) on port 13946
+Only local connections are allowed.
+Aug 02, 2018 1:38:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="loginpageLogoTest" classname="com.crm.qa.testcases.LoginPageTest" time="0.052"/>
+  <testcase name="verifyContactLinkTest" classname="com.crm.qa.testcases.HomePageTest" time="0.855"/>
+  <testcase name="verifyHomePageTitleTest" classname="com.crm.qa.testcases.HomePageTest" time="0.026"/>
+  <testcase name="verifyUserNameTest" classname="com.crm.qa.testcases.HomePageTest" time="0.08"/>
+  <testcase name="verifyAddNewContactTest" classname="com.crm.qa.testcases.ContactsPageTest" time="3.832"/>
+  <testcase name="verifyAddNewContactTest" classname="com.crm.qa.testcases.ContactsPageTest" time="2.754"/>
+  <testcase name="verifyAddNewContactTest" classname="com.crm.qa.testcases.ContactsPageTest" time="3.098"/>
+  <testcase name="verifyAddNewContactTest" classname="com.crm.qa.testcases.ContactsPageTest" time="2.983"/>
+  <testcase name="verifyContactLabelTest" classname="com.crm.qa.testcases.ContactsPageTest" time="0.033"/>
+  <testcase name="verifyselectSingleContactByNameTest" classname="com.crm.qa.testcases.ContactsPageTest" time="0.112"/>
+  <testcase name="verifyselectMultipleContactByNameTest" classname="com.crm.qa.testcases.ContactsPageTest" time="0.186"/>
+</testsuite>

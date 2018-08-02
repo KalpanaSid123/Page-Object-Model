@@ -10,6 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.crm.qa.base.TestBase;
 
+
 public class HomePage extends TestBase {
 	
 	
@@ -60,7 +61,7 @@ public class HomePage extends TestBase {
 		
 	}
 	
-	public DealsPage clickOnDealsLink()
+	/* public DealsPage clickOnDealsLink()
 	{
 		contactLink.click();
 		return new DealsPage();
@@ -71,5 +72,5 @@ public class HomePage extends TestBase {
 		contactLink.click();
 		return new TasksPage();
 	}
-	
+	*/
 }
